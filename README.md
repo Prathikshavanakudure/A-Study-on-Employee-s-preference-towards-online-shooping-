@@ -11,19 +11,19 @@ Payment method preferences
 Fraud/security experiences
 
 Statistical Methods:
-Chi-Square Test
-Two-Proportion Z-Test
-Two-Sample t-Test
-Graphical analysis (bar charts, pie charts, boxplots)
+Chi-Square Test,
+Two-Proportion Z-Test,
+Two-Sample t-Test,
+Graphical analysis (bar charts, pie charts, boxplots).
 
 Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Statsmodels
-SciPy
-OpenPyXL
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Statsmodels,
+SciPy,
+OpenPyXL.
 
 How to Run:
 Install dependencies,
