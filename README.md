@@ -26,9 +26,9 @@ SciPy
 OpenPyXL
 
 How to Run:
-Install dependencies
-Add dataset 
-Run analysis scripts
+Install dependencies,
+Add dataset, 
+Run analysis scripts.
 
 Suggested Repository Structure:
 ├── README.md
